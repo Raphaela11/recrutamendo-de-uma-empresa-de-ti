@@ -1,0 +1,29 @@
+@import url(styles/header.css);
+@import url(styles/banner.css);
+@import url(styles/mericas.css);
+@import url(styles/vagas.css);
+@import url(styles/colaborador.css);
+:root{
+    --vermelho-botao: #8E2424;
+    --preto-font:#101828;
+    --cinza:#3A404E;
+    --cinza-claro:#667085;
+    --branco:#FFFFFF;
+    --vermelho-tranparent: #8E24240D;
+    --borda:#EAECF0;
+    --fonte-inter:inter;
+}
+
+body{
+    background-color: var(--branco);
+    color: var(--cinza-claro);
+    font-family: var(--fonte-inter);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+main{
+    padding: 0em 4em 4em;
+}
+

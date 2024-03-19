@@ -1,0 +1,34 @@
+.colaborador{
+    text-align: center;
+    background-color: var(--vermelho-tranparent);
+    margin: 0 2.5em;
+    padding: 3.6em;
+}
+
+.relato-colaborador{
+    margin-bottom: 2em;
+}
+
+.colaborador__sobreNos{
+    font-size: 14px;
+    font-weight: 600;
+    color:var(--vermelho-botao);
+}
+
+.colaborador__opiniao{
+    font-size: 36px;
+    font-weight: 500;
+    color: var(--preto-font);
+    line-height: 44px;
+}
+
+.colaborador__nome{
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--preto-font);
+}
+
+.colaborador__profissao{
+    font-size: 14px;
+
+}

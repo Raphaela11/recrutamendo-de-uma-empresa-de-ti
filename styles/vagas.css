@@ -1,0 +1,79 @@
+.vagas{
+    padding: 5em 0em 2em;
+}
+
+.banner-vagas{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.banner-vagas__span{
+    background-color: var(--vermelho-tranparent);
+    color: var(--vermelho-botao);
+    font-size: 14px;
+    font-weight: 550;
+    padding: .1em 1em;
+    border-radius: 16px;
+    margin-bottom: 1em;
+}
+
+.banner-vagas__titulo{
+    font-size:35px;
+    font-weight:600;
+    color:var(--preto-font);
+    line-height: 44px;
+}
+
+.banner-vagas__texto{
+    font-size: 20px;
+    margin: 1.5em 0 4em;
+}
+
+.banner-vagas__img{
+    width: 93%;
+}
+
+.vagas__lista{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5em;
+}
+
+.tipo-vagas{
+    width: 60%;
+    padding: 2px;
+    margin-bottom: 3.5em;
+}
+
+.tipo-vagas__titulo{
+    color: var(--preto-font);
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: .2em;
+}
+
+.vaga{
+    margin: 2em 0 1em;
+    border: 2px solid var(--borda);
+    padding: 1.2em;
+    border-radius: 16px;
+}
+
+.vaga__titulo{
+    color: var(--preto-font);
+    font-weight: 500;
+}
+
+.info-vaga{
+    margin-top: 2em;
+}
+
+.info-vaga__texto{
+    font-size: 16px;
+}
+
+.horario{
+    padding-right: 1.2em;
+}
