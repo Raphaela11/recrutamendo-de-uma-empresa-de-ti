@@ -3,6 +3,7 @@
 @import url(styles/mericas.css);
 @import url(styles/vagas.css);
 @import url(styles/colaborador.css);
+@import url(styles/footer.css);
 :root{
     --vermelho-botao: #8E2424;
     --preto-font:#101828;
@@ -12,6 +13,9 @@
     --vermelho-tranparent: #8E24240D;
     --borda:#EAECF0;
     --fonte-inter:inter;
+    --cinza-rodape: #F9FAFB;
+    --cinza-email:#D0D5DD;
+    --copyright:#98A2B3;
 }
 
 body{
